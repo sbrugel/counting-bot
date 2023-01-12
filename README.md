@@ -6,3 +6,5 @@ It tracks a specified channel and ensures the only messages that get sent are nu
 - A user sends the next number, but with an attachment or content after the number
 - The same user counts twice in a row
 - Any user deletes or edits a message sent after the count started
+
+![i](https://i.imgur.com/LZIwH82.png)
